@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-24T10:54:57" hostname="INIDC-bajajm" time="0.005">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="MainApplicationTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
